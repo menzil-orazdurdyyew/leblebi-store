@@ -17,9 +17,10 @@ Bu projede "Lightweight & Scalable" (Hafif ve Ölçeklenebilir) bir yapı tercih
 - **Data Management:** Dinamik JS objeleri üzerinden yönetilen geniş ürün kataloğu.
 
 ## 🤖 Geliştirme Süreci
-Bu uygulama, siber bir geliştirme hızıyla inşa edilmiştir. Geliştirme aşamasında **Gemini AI** bir "Solution Architect" (Çözüm Mimarı) olarak kullanılmış; karmaşık dil çeviri dosyaları ve dinamik filtreleme algoritmaları AI-Native metodolojisiyle optimize edilmiştir.
+Bu uygulama, siber bir geliştirme hızıyla inşa edilmiştir. Geliştirme aşamasında **Gemini AI** bir "Çözüm Mimarı" olarak kullanılmış; karmaşık dil çeviri dosyaları ve dinamik filtreleme algoritmaları AI-Native teknelojisiyle optimize edilmiştir.
 
 ---
 **Geliştirici:** Menzil Orazdurdyyew  
 
 **Konsept:** Profesyonel E-Ticaret Deneyimi
+
