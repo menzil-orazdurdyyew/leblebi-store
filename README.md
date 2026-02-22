@@ -2,9 +2,6 @@
 
 Leblebi Store, kullanıcı deneyimini (UX) ön plana çıkaran, çok dilli ve dinamik içerikli bir e-ticaret arayüz projesidir. Bu proje, büyük ölçekli verilerin (Product Catalog) bir frontend uygulamasında nasıl yönetildiğini ve AI destekli yerelleştirme (Localization) süreçlerini sergilemek amacıyla geliştirilmiştir.
 
-## 🌐 Canlı Önizleme
-Projeyi buradan inceleyebilirsiniz: [BURAYA_NETLIFY_LINKINI_YAPISTIR]
-
 ## ✨ Öne Çıkan Özellikler
 - **4 Dilli Dinamik Yapı:** Türkçe, Türkmence, Rusça ve İngilizce dilleri arasında anlık geçiş.
 - **Akıllı Sepet Yönetimi:** LocalStorage entegrasyonu ile sayfa yenilense bile kaybolmayan sepet verileri.
@@ -24,4 +21,5 @@ Bu uygulama, siber bir geliştirme hızıyla inşa edilmiştir. Geliştirme aşa
 
 ---
 **Geliştirici:** Menzil Orazdurdyyew  
+
 **Konsept:** Profesyonel E-Ticaret Deneyimi
