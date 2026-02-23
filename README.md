@@ -1,26 +1,80 @@
-# 🛒 Leblebi Store - Modern E-Commerce UI
+# 🛒 Leblebi Store – AI-Native E-Ticaret Arayüzü
 
-Leblebi Store, kullanıcı deneyimini (UX) ön plana çıkaran, çok dilli ve dinamik içerikli bir e-ticaret arayüz projesidir. Bu proje, büyük ölçekli verilerin (Product Catalog) bir frontend uygulamasında nasıl yönetildiğini ve AI destekli yerelleştirme (Localization) süreçlerini sergilemek amacıyla geliştirilmiştir.
+![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
-## ✨ Öne Çıkan Özellikler
-- **4 Dilli Dinamik Yapı:** Türkçe, Türkmence, Rusça ve İngilizce dilleri arasında anlık geçiş.
-- **Akıllı Sepet Yönetimi:** LocalStorage entegrasyonu ile sayfa yenilense bile kaybolmayan sepet verileri.
-- **Gelişmiş Filtreleme:** Kategori bazlı ve kelime arama odaklı ürün listeleme algoritması.
-- **Kullanıcı Yorum & Puanlama:** Her ürün için özelleştirilmiş yorum satırları ve yıldız sistemi.
-- **Gece/Gündüz Modu:** Kullanıcı tercihine göre değişen siber temalı arayüz.
+**Leblebi Store**, kullanıcı deneyimini (UX) ön planda tutan, **çok dilli**, **tema destekli** ve **tamamen dinamik** bir e-ticaret arayüzüdür. Proje, büyük ölçekli ürün kataloglarının yönetimini ve yapay zeka destekli yerelleştirme (localization) süreçlerini sergilemek amacıyla geliştirilmiştir.
 
-## 🛠️ Teknik Altyapı
-Bu projede "Lightweight & Scalable" (Hafif ve Ölçeklenebilir) bir yapı tercih edilmiştir:
-- **Core:** [React.js](https://reactjs.org/) (CDN version)
-- **Compiler:** [Babel](https://babeljs.io/) (JSX transpilasyon için)
-- **Styling:** Custom CSS (Modern UI/UX prensipleriyle)
-- **Data Management:** Dinamik JS objeleri üzerinden yönetilen geniş ürün kataloğu.
-
-## 🤖 Geliştirme Süreci
-Bu uygulama, siber bir geliştirme hızıyla inşa edilmiştir. Geliştirme aşamasında **Gemini AI** bir "Çözüm Mimarı" olarak kullanılmış; karmaşık dil çeviri dosyaları ve dinamik filtreleme algoritmaları AI-Native teknelojisiyle optimize edilmiştir.
+🔗 **[Canlı Demo'yu İncele](https://leblebi-store.netlify.app/)**
 
 ---
-**Geliştirici:** Menzil Orazdurdyyew  
 
-**Konsept:** Profesyonel E-Ticaret Deneyimi
+## ✨ **Öne Çıkan Özellikler**
 
+- 🌍 **4 Dil Desteği:** Türkçe, Türkmence, Rusça, İngilizce – anlık geçiş.
+- 🛍️ **Akıllı Sepet Yönetimi:** LocalStorage sayesinde sepet verileri kalıcı.
+- 🔍 **Gelişmiş Filtreleme:** Kategori bazlı ve anlık arama.
+- ⭐ **Kullanıcı Yorum & Puanlama:** Her ürün için yıldızlı yorum sistemi.
+- 🌙 **Gece/Gündüz Modu:** Kullanıcı tercihine duyarlı tema.
+- 📱 **Tam Responsive:** Mobil, tablet ve masaüstünde kusursuz görünüm.
+
+---
+
+## 🛠️ **Teknik Altyapı**
+
+- **React 18** (CDN ile hızlı kurulum)
+- **Babel** (JSX dönüşümü)
+- **Custom CSS** (CSS değişkenleri, animasyonlar, glassmorphism)
+- **LocalStorage** (sepet, dil, tema, yorumlar)
+- **Dinamik Ürün Kataloğu** (24 ürün, çok dilli açıklamalar)
+
+---
+
+## 🤖 **AI-Native Geliştirme Süreci**
+
+Bu proje, geleneksel kodlamanın ötesinde **yapay zeka destekli (AI-Native)** bir yaklaşımla inşa edilmiştir:
+
+- **Gemini AI** ile tüm çeviri dosyaları (`translations.js`) ve ürün açıklamaları optimize edildi.
+- Karmaşık filtreleme algoritmaları AI yardımıyla hızlıca prototiplendi.
+- Kod tekrarları azaltıldı, performans artırıldı.
+- UI/UX iyileştirmeleri için AI önerileri kullanıldı.
+
+> “AI’yi sadece bir araç değil, bir geliştirme ortağı olarak kullandım.”
+
+---
+
+## 📂 **Dosya Yapısı**
+leblebi-store/
+├── index.html # Ana HTML (React, Babel bağlantıları)
+├── style.css # Tüm stiller (tema, animasyon, responsive)
+├── app.js # Ana React bileşeni
+├── data/
+│ ├── products.js # 24 ürünlü katalog (çok dilli)
+│ └── translations.js # 4 dil için çeviriler
+└── README.md
+
+text
+
+---
+
+## 🚦 **Kurulum ve Çalıştırma**
+
+Proje herhangi bir build aracı gerektirmez. Sadece bir sunucuda yayınla veya local'de aç:
+
+```bash
+git clone https://github.com/menzil-orazdurdyyew/menzil-leblebi-store.git
+cd menzil-leblebi-store
+# index.html'i tarayıcında aç (Live Server ile çalıştırman önerilir)
+📬 İletişim
+Geliştirici: Menzil Orazdurdyyew
+
+Portfolyo: menzil-orazdurdyyew-portfolyo.netlify.app
+
+GitHub: @menzil-orazdurdyyew
+
+LinkedIn: linkedin.com/in/menzil-orazdurdyyew
+
+E-posta: menziloraz48@gmail.com
+
+⭐ Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!
