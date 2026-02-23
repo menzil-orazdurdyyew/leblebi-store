@@ -75,11 +75,13 @@ cd leblebi-store
 
 ## 📬 İletişim
 
-**Geliştirici:** Menzil Orazdurdyyew  
+**Geliştirici:** Menzil Orazdurdyyew
 
-* 🌐 **Portfolyo:** [menzil-orazdurdyyew-portfolyo.netlify.app](https://menzil-orazdurdyyew-portfolyo.netlify.app/)
-* 🐙 **GitHub:** [@menzil-orazdurdyyew](https://github.com/menzil-orazdurdyyew)
-* 💼 **LinkedIn:** [linkedin.com/in/menzil-orazdurdyyew](https://www.linkedin.com/in/menzil-orazdurdyyew/)
-* 📧 **E-posta:** [menziloraz48@gmail.com](mailto:menziloraz48@gmail.com)
+- **Portfolyo:** [menzil-orazdurdyyew-portfolyo.netlify.app](https://menzil-orazdurdyyew-portfolyo.netlify.app/)
+- **GitHub:** [@menzil-orazdurdyyew](https://github.com/menzil-orazdurdyyew)
+- **LinkedIn:** [linkedin.com/in/menzil-orazdurdyyew](https://linkedin.com/in/menzil-orazdurdyyew)
+- **E-posta:** [menziloraz48@gmail.com](mailto:menziloraz48@gmail.com)
 
-⭐ **Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!**
+---
+
+⭐ _Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!_
