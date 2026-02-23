@@ -73,8 +73,9 @@ Portfolyo: menzil-orazdurdyyew-portfolyo.netlify.app
 
 GitHub: @menzil-orazdurdyyew
 
-LinkedIn: linkedin.com/in/menzil-orazdurdyyew
+LinkedIn: (linkedin.com/in/menzil-orazdurdyyew)
 
 E-posta: menziloraz48@gmail.com
 
 ⭐ Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!
+
