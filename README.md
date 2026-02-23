@@ -58,22 +58,28 @@ text
 
 ---
 
-🚦 Kurulum ve Çalıştırma
-Proje herhangi bir build aracı gerektirmez. Sadece bir sunucuda yayınla veya local'de aç:
+## 🚦 Kurulum ve Çalıştırma
 
-bash
-git clone https://github.com/menzil-orazdurdyyew/leblebi-store.git
+Proje herhangi bir build aracı gerektirmez. Sadece bir sunucuda yayınlayın veya yerel ortamınızda açın:
+
+```bash
+# Projeyi bilgisayarınıza indirin
+git clone [https://github.com/menzil-orazdurdyyew/leblebi-store.git](https://github.com/menzil-orazdurdyyew/leblebi-store.git)
+
+# Proje klasörüne girin
 cd leblebi-store
-# index.html'i tarayıcında aç (Live Server ile çalıştırman önerilir)
-📬 İletişim
-Geliştirici: Menzil Orazdurdyyew
 
-Portfolyo: menzil-orazdurdyyew-portfolyo.netlify.app
+# index.html'i tarayıcınızda açın (Live Server ile çalıştırmanız önerilir)
 
-GitHub: @menzil-orazdurdyyew
+---
 
-LinkedIn: linkedin.com/in/menzil-orazdurdyyew
+## 📬 İletişim
 
-E-posta: menziloraz48@gmail.com
+**Geliştirici:** Menzil Orazdurdyyew  
 
-⭐ Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!
+* 🌐 **Portfolyo:** [menzil-orazdurdyyew-portfolyo.netlify.app](https://menzil-orazdurdyyew-portfolyo.netlify.app/)
+* 🐙 **GitHub:** [@menzil-orazdurdyyew](https://github.com/menzil-orazdurdyyew)
+* 💼 **LinkedIn:** [linkedin.com/in/menzil-orazdurdyyew](https://www.linkedin.com/in/menzil-orazdurdyyew/)
+* 📧 **E-posta:** [menziloraz48@gmail.com](mailto:menziloraz48@gmail.com)
+
+⭐ **Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!**
