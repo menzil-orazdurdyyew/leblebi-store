@@ -58,13 +58,12 @@ text
 
 ---
 
-## 🚦 **Kurulum ve Çalıştırma**
-
+🚦 Kurulum ve Çalıştırma
 Proje herhangi bir build aracı gerektirmez. Sadece bir sunucuda yayınla veya local'de aç:
 
-```bash
-git clone https://github.com/menzil-orazdurdyyew/menzil-leblebi-store.git
-cd menzil-leblebi-store
+bash
+git clone https://github.com/menzil-orazdurdyyew/leblebi-store.git
+cd leblebi-store
 # index.html'i tarayıcında aç (Live Server ile çalıştırman önerilir)
 📬 İletişim
 Geliştirici: Menzil Orazdurdyyew
@@ -73,9 +72,8 @@ Portfolyo: menzil-orazdurdyyew-portfolyo.netlify.app
 
 GitHub: @menzil-orazdurdyyew
 
-LinkedIn: (linkedin.com/in/menzil-orazdurdyyew)
+LinkedIn: linkedin.com/in/menzil-orazdurdyyew
 
 E-posta: menziloraz48@gmail.com
 
 ⭐ Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!
-
