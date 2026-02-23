@@ -60,16 +60,13 @@ text
 
 ## 🚦 Kurulum ve Çalıştırma
 
-Proje herhangi bir build aracı gerektirmez. Sadece bir sunucuda yayınlayın veya yerel ortamınızda açın:
+Proje herhangi bir build aracı gerektirmez. Sadece bir sunucuda yayınla veya local'de aç:
 
 ```bash
-# Projeyi bilgisayarınıza indirin
-git clone [https://github.com/menzil-orazdurdyyew/leblebi-store.git](https://github.com/menzil-orazdurdyyew/leblebi-store.git)
-
-# Proje klasörüne girin
+git clone https://github.com/menzil-orazdurdyyew/leblebi-store.git
 cd leblebi-store
-
-# index.html'i tarayıcınızda açın (Live Server ile çalıştırmanız önerilir)
+# index.html'i tarayıcında aç (Live Server ile çalıştırman önerilir)
+```
 
 ---
 
