@@ -6,7 +6,7 @@
 
 **Leblebi Store**, kullanıcı deneyimini (UX) ön planda tutan, **çok dilli**, **tema destekli** ve **tamamen dinamik** bir e-ticaret arayüzüdür. Proje, büyük ölçekli ürün kataloglarının yönetimini ve yapay zeka destekli yerelleştirme (localization) süreçlerini sergilemek amacıyla geliştirilmiştir.
 
-![Proje Ön İzleme](assets/leblebi.png.lnk)
+![Proje Ön İzleme](leblebi.png)
 
 ---
 
@@ -86,6 +86,7 @@ cd leblebi-store
 ---
 
 ⭐ _Bu proje işinize yaradıysa bir yıldız bırakmayı unutmayın!_
+
 
 
 
